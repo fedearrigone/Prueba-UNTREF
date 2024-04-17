@@ -1,0 +1,6 @@
+Nombre: Federico
+Apellido: Arrigone
+Edad: 27
+Altuda: 1.75
+Peso: 65
+
