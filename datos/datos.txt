@@ -4,3 +4,7 @@ Edad: 27
 Altuda: 1.75
 Peso: 65
 
+Hola! mi nombre es Federico Arrigone, tengo 27 años, soy de CABA pero estoy viviendo en Chivilcoy y actualmente estoy estudiando para ser Desarrollador Web FullStack.
+Anteriormente estudié Música en la EMBA (Escuela de Música de Buenos Aires).
+Mis experiencias laborales son algo variadas, trabajé como mecanico y encargado en un bikeshop, vendedor en comercio, encargado en un taller de serigrafia, químico en una fabrica de calzado y demás.
+

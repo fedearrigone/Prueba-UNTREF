@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+
+}
+.list{
+    width: 10%;
+    background-color: aliceblue;
+    padding: auto;
+}
+#content{
+    display: flex;
+    justify-content: right;
+}
