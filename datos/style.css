@@ -5,12 +5,19 @@ h1{
     text-align: center;
 
 }
-.list{
-    width: 10%;
-    background-color: aliceblue;
+.container{
+    display: flex;
+    justify-content: center;
     padding: auto;
 }
-#content{
-    display: flex;
-    justify-content: right;
+.list{
+    width: 30%;
+    background-color: aliceblue;
+    padding: auto;
+    border-radius: 15px;
+    margin: 20px;
+}
+p{
+    margin: auto;
+    padding: auto;
 }
